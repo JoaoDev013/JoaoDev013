@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Front-end | HTML, CSS, JavaScript
 
-💻 Trabalho com desenvolvimento de sites e interfaces interativas utilizando as tecnologias mais modernas.
+💻 Trabalho com desenvolvimento de sites e interfaces interativas.
 
 ---
 
