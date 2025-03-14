@@ -6,10 +6,6 @@
 
 ---
 
-### 🌍 Conecte-se comigo:
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedro/)](https://www.linkedin.com/in/joaopedro/)
-[![Twitter Badge](https://img.shields.io/badge/-@JoaoPedroDev-1ca0f1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JoaoPedroDev)](https://twitter.com/JoaoPedroDev)
-[![Instagram Badge](https://img.shields.io/badge/-@joaopedro.dev-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaopedro.dev/)](https://www.instagram.com/joaopedro.dev/)
 
 ---
 
