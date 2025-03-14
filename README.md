@@ -25,8 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 🔍 Projetos em Destaque:
-- [Projeto 1](https://github.com/joaopedro/projeto1) - Descrição breve do projeto
-- [Projeto 2](https://github.com/joaopedro/projeto2) - Descrição breve do projeto
-- [Projeto 3](https://github.com/joaopedro/projeto3) - Descrição breve do projeto
